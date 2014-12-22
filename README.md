@@ -36,11 +36,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A lytle treatise of the maner and forme of confession, made by the most excellent and famous clerke,
+
 #####Body#####
-A lytle treatise of the maner and forme of confession, made by the most excellent and famous clerke,
+
+1. ¶To the reuerent father Fraū••••ke Moline, the byshop of Condome, newly elected, Erasmus of Roterdame sendeth gretynge.
+The forme and maner of cōfession.BUt thou ꝑauenture, good reder, dost loke, that I shulde teache th
 #####Back#####
-A lytle treatise of the maner and forme of confession, made by the most excellent and famous clerke,
+Thus endeth this lytle treatise of the forme & maner of confession / made by the moste excellent andGratia virtus beatos efficit Charitas Gratia sumus seruati. Johan Byddell, printer. Charitas oīa su
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
